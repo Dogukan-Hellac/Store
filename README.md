@@ -39,3 +39,7 @@ Bu proje, React Native kullanılarak geliştirilmiş bir mağaza uygulamasıdır
    
    Başarılı giriş yaptıktan sonra, mağaza ürünlerinin listelendiği bir sayfaya yönlendirilirsiniz. Buradan ürünlerin detaylarına erişebilirsiniz.
 
+### Ekran Görüntüleri
+
+![Ana Ekran](./1.png)
+![Ana Ekran](./2.png)
