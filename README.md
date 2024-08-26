@@ -21,17 +21,21 @@ Bu proje, React Native kullanılarak geliştirilmiş bir mağaza uygulamasıdır
 
    ```
    git clone https://github.com/kullaniciadi/store-app.git
-   cd store-app
+   cd Store
    ```
 
 ### Kullanım
 
 1. **Giriş Yapma**
- Uygulama açıldığında, giriş ekranında aşağıdaki örnek kullanıcı bilgilerini kullanarak giriş yapabilirsiniz:
 
-    - Kullanıcı Adı: johnd
-    - Şifre: m38rmF$
-Bu bilgiler, test amaçlı örnek kullanıcı olarak kullanılır. Gerçek bir kullanıcı hesabı oluşturma özelliği mevcut değildir.
+   Uygulama açıldığında, giriş ekranında aşağıdaki örnek kullanıcı bilgilerini kullanarak giriş yapabilirsiniz:
+
+   ```
+     Kullanıcı Adı: johnd
+     Şifre: m38rmF$
+   ```
+   Bu bilgiler, test amaçlı örnek kullanıcı olarak kullanılır. Gerçek bir kullanıcı hesabı oluşturma özelliği mevcut değildir.
 2. **Ürünleri Görüntüleme**
- Başarılı giriş yaptıktan sonra, mağaza ürünlerinin listelendiği bir sayfaya yönlendirilirsiniz. Buradan ürünlerin detaylarına erişebilirsiniz.
+   
+   Başarılı giriş yaptıktan sonra, mağaza ürünlerinin listelendiği bir sayfaya yönlendirilirsiniz. Buradan ürünlerin detaylarına erişebilirsiniz.
 
